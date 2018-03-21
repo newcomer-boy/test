@@ -1,2 +1,3 @@
 test git repository4
 I am test2 branch 
+test2 branch want to merger master
